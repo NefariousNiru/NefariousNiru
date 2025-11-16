@@ -34,9 +34,6 @@ Built a **distributed AI grading platform** that processes **1,000+ concurrent j
 * 🔐 SSO + OAuth2, HMAC idempotency, rate limiting, and secure pipelines
 * 🛰️ **gRPC multi-provider LLM gateway** → 90% fewer schema errors
 * 📊 Full observability: Prometheus, Grafana, p95/p99, dashboards
-
-Also mentored **80+ students** as a Graduate TA (design reviews, Git, CI/CD, testing culture).
-
 ---
 
 ### 🚚 **Software Engineer — JourneyTMS**
@@ -103,17 +100,10 @@ Also mentored **80+ students** as a Graduate TA (design reviews, Git, CI/CD, tes
 # 🏆 Other Highlights
 
 * 🧩 **700+ LeetCode problems solved (Top 5%)**
-* 🧑‍🏫 TA for Software Engineering (80+ students guided)
+* 🧑‍🏫 TA for Software Engineering - mentored **80+ students** as a Graduate TA (Software Design Patterns, Git, CI/CD).
 * 🏆 Awarded full scholarship + stipend @ UGA for excellent academic performance
 * 📚 Research in time-series forecasting (Transformers, VAR, CNN)
 * 🎇 Open-Source contribution in:
   - [ScalaTion & ScalaTionPy](https://github.com/scalation) - A data science library written in Scala and Python
   - [Dynamic-Sarimax](https://pypi.org/project/dynamic-sarimax/) - Developer & Maintainer for a time-series package
 * 🔭 Currently exploring LLMs and systems engineering
-
----
-
-# 📫 Let’s Connect
-
-🌐 **LinkedIn:** [https://linkedin.com/in/nbroy](https://linkedin.com/in/nbroy)
-🖥️ **GitHub:** [https://github.com/NefariousNiru](https://github.com/NefariousNiru)
