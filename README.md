@@ -2,7 +2,20 @@
 
 **Software Engineer • Distributed Systems • Backend • AI Systems • MSCS @ University of Georgia, Athens, GA (4.0 GPA)**
 
-🌐 [LinkedIn](https://linkedin.com/in/nbroy) • 🧑‍💻 [LeetCode](https://leetcode.com/u/Nefarious_Nzx/)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+
+**Links**: 🌐 [LinkedIn](https://linkedin.com/in/nbroy) • 🧑‍💻 [LeetCode](https://leetcode.com/u/Nefarious_Nzx/)
 
 ---
 
@@ -106,4 +119,5 @@ Built a **distributed AI grading platform** that processes **1,000+ concurrent j
 * 🎇 Open-Source contribution in:
   - [ScalaTion & ScalaTionPy](https://github.com/scalation) - A data science library written in Scala and Python
   - [Dynamic-Sarimax](https://pypi.org/project/dynamic-sarimax/) - Developer & Maintainer for a time-series package
+* 📈 Developed a Proprietary Trading Algorithm yielding up to 50% returns in a quarter. 
 * 🔭 Currently exploring LLMs and systems engineering
