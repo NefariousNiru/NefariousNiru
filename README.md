@@ -24,13 +24,13 @@ I build **high-performance distributed systems**, **AI-driven automation**, and 
 
 My work spans:
 
-* ⚡ Backend Engineering (FastAPI, Java/Spring Boot, gRPC)
-* 🕸️ Distributed Systems (distributed key-value store, consensus, replication, anti-entropy)
-* 🧠 AI Systems & LLM Engineering (RAG, agents, embeddings)
+* ⚡ Backend Engineering (Python/FastAPI, Java/Spring Boot, gRPC)
+* 🕸️ Distributed Systems (distributed key-value store, Kafka, consensus, replication, anti-entropy)
 * 🗃️ Databases (PostgreSQL, Redis, Neo4j, MongoDB)
+* 🧠 AI Systems & LLM Engineering (RAG, agents, embeddings)
 * ☁️ Cloud Infra + Observability (Docker, Prometheus, Grafana, AWS/GCP)
 
-I love and am passionate about turning complex problems into **clean, reliable, production-ready engineering**.
+I am skilled at translating complex technical challenges into **clean, reliable, and production-ready systems**.
 
 ---
 
