@@ -1,122 +1,101 @@
-# 🚀 Nirupom Bose Roy
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Nirupom Bose Roy — Senior Technology Developer at UGA. Distributed systems, backend engineering and AI." /></p>
 
-**Software Engineer • Distributed Systems • Backend • AI Systems • MSCS @ University of Georgia, Athens, GA (4.0 GPA)**
+<p align="center"><a href="https://linkedin.com/in/nbroy">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/NefariousNiru?tab=repositories">Repositories</a> &nbsp;·&nbsp; <a href="https://leetcode.com/u/Nefarious_Nzx/">LeetCode</a></p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=chainlink&logoColor=white)
+## 👋 A little about me
 
-**Links**: 🌐 [LinkedIn](https://linkedin.com/in/nbroy) • 🧑‍💻 [LeetCode](https://leetcode.com/u/Nefarious_Nzx/)
+I'm a software engineer with five years of experience building distributed systems, high-scale backend platforms and AI-powered software. I'm drawn to the problems beneath the application layer: how systems coordinate, handle failure, move data efficiently and stay predictable under load.
 
----
+I enjoy exploring systems from first principles, whether that means building a distributed storage engine, optimizing graph workloads in C++, or designing reliable infrastructure around AI models.
 
-## 👋 Hey! I’m Nirupom
+**M.S. Computer Science** · University of Georgia · 4.0/4.0 GPA
 
-I build **high-performance distributed systems**, **AI-driven automation**, and **scalable backend platforms**.
+## Currently building @ UGA
 
-My work spans:
+**Senior Technology Developer** · College of Pharmacy, University of Georgia · Nov 2026 – Present
 
-* ⚡ Backend Engineering (Python/FastAPI, Java/Spring Boot, gRPC)
-* 🕸️ Distributed Systems (distributed key-value store, Kafka, consensus, replication, anti-entropy)
-* 🗃️ Databases (PostgreSQL, Redis, Neo4j, MongoDB)
-* 🧠 AI Systems & LLM Engineering (RAG, agents, embeddings)
-* ☁️ Cloud Infra + Observability (Docker, Prometheus, Grafana, AWS/GCP)
+I lead AI-powered educational technology development across 16 project initiatives, working with faculty and domain experts to turn ideas into dependable software. My work spans architecture, hands-on engineering, platform modernization, and improving how we develop, test and deliver software.
 
-I am skilled at translating complex technical challenges into **clean, reliable, and production-ready systems**.
+## Engineering in practice
 
----
+<p align="center"><img src="assets/impact.svg" width="100%" alt="50K daily requests at JourneyTMS, 10K+ daily active chat users at Wizork, and 4 times faster LLM service calls at UGA." /></p>
 
-# 💼 Experience Highlights
+Previously, I helped build an AI grading platform for **1K+ users** at UGA, reducing end-to-end latency by **75%** and LLM token costs by **50%**. At JourneyTMS, I reduced scheduling runtime by **98%**. At Wizork, I helped scale a classroom ERP platform from **1K to 50K users** and built event-driven services and real-time messaging infrastructure.
 
-### 🏫 **Software Engineer (Graduate Research Assistant) — University of Georgia**
+## Selected work
 
-*Aug 2025 – Present*
-Built a **distributed AI grading platform** that processes **1,000+ concurrent jobs** with:
+A collection of systems I've built to explore interesting engineering problems.
 
-* 🧩 **RAG + Agentic workflows** → Eliminated manual effort entirely (100% automation)
-* ⚡ **70% latency reduction** (8 → 2 minutes) with async persistence & Redis caching
-* 🔐 SSO + OAuth2, HMAC idempotency, rate limiting, and secure pipelines
-* 🛰️ **gRPC multi-provider LLM gateway** → 90% fewer schema errors
-* 📊 Full observability: Prometheus, Grafana, p95/p99, dashboards
----
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NefariousNiru/keyflow">Keyflow</a> ↗</h3>
+<sub>ANDROID · .NET · SECURE NETWORKING</sub>
+<p>Secure Android-to-Windows remote keyboard exploring local-first communication, device identity, mutual TLS and low-latency input.</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NefariousNiru/gpupath">GPUPath</a> ↗</h3>
+<sub>C++ · CUDA · PYBIND11</sub>
+<p>Native graph traversal and batched shortest-path queries. Achieved <b>65× speedup</b> over pure-Python NetworkX on graphs with 1M+ edges. CUDA many-to-many kernels are in development, targeting an additional 10× throughput over the CPU baseline.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NefariousNiru/social-media">Graph-based Social Platform</a> ↗</h3>
+<sub>SPRING BOOT · NEO4J · KAFKA</sub>
+<p>Event-driven social backend built around graph relationships, asynchronous processing and scalability.</p>
+<p><b>Benchmark:</b> 3K read RPS · 1.2K write RPS · p95 &lt;220 ms.</p>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/NefariousNiru/dynamo-lite">DynamoLite</a> ↗</h3>
+<sub>JAVA · gRPC · DISTRIBUTED STORAGE</sub>
+<p>Dynamo-inspired fault-tolerant key-value store with consistent hashing, vector clocks and Merkle-tree anti-entropy repair.</p>
+<p><b>Result:</b> 40% improvement in replica convergence.</p>
+</td>
+</tr>
+<tr><td colspan="2" valign="top">
+<h3><a href="https://github.com/NefariousNiru/papertrail-ai-backend">PaperTrail AI</a> ↗</h3>
+<sub>FASTAPI · REDIS · RETRIEVAL · LLMs</sub>
+<p>AI-assisted research citation evaluation combining semantic retrieval, LLM ranking and real-time streaming.</p>
+</td></tr>
+</table>
 
-### 🚚 **Software Engineer — JourneyTMS**
+## AI / ML explorations
 
-*Mar 2024 – Jul 2024*
+Beyond production AI, I enjoy experimenting with model architectures, compression and statistical learning.
 
-* ⚙️ Designed scheduling/ETA engines (FastAPI + PostgreSQL) → **98% latency reduction**
-* 🤖 Built a **RAG Invoice-to-JSON Agent** (GPT + Tesseract + Pinecone) → **100% automation**, <1.5s latency
-* 🚛 Production vehicle-routing engine → boosted deliveries **20%**, scaled to 5× traffic
-* 🧵 Introduced Redis caching + LRU → cut external API usage **20%**
+| Project | Focus |
+| :-- | :-- |
+| [VGG Pruning](https://github.com/NefariousNiru/pruning-vgg) | Neural network pruning and compression |
+| [Custom CNN / ResNet-20](https://github.com/NefariousNiru/custom-CNN-cifar-10-resnet-20) | CIFAR-10 image classification |
+| [Neural Networks Comparative Analysis](https://github.com/NefariousNiru/Neural_Nets_Comparative_Analysis) | Comparative neural network experiments |
+| [Dynamic-SARIMAX](https://github.com/NefariousNiru/dynamic-sarimax) | Time-series forecasting; package developer and maintainer |
+| [ScalaTion & ScalaTionPy](https://github.com/scalation) | Open-source scientific computing and data science |
 
----
+## Engineering toolkit
 
-### 💬 **Full-Stack Developer — Wizork**
+<p><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Java-B66A34?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Go-287E97?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/C%2B%2B-435B82?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/FastAPI-287E79?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Kafka-3F4857?style=flat-square&amp;logo=apachekafka&amp;logoColor=white" alt="Kafka" />
+<img src="https://img.shields.io/badge/PostgreSQL-41668E?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/Docker-387AA8?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker" /></p>
 
-*Jan 2023 – Feb 2024*
+| | |
+| :-- | :-- |
+| **Backend & systems** | Python, Java, Go, C++, FastAPI, Spring Boot, gRPC, WebSockets |
+| **Data & messaging** | PostgreSQL, Redis, Kafka, MongoDB, Neo4j, Elasticsearch |
+| **Infrastructure** | AWS, Docker, Kubernetes, Linux, CI/CD |
+| **AI engineering** | LLM orchestration, RAG, LangChain, LangGraph, agentic systems |
 
-* Built a **5,000+ DAU** real-time messaging platform (Node.js + Angular + Kafka + MongoDB)
-* Implemented Kafka microservices → 95th percentile latency **−30%**, throughput **3×**
-* Rebuilt mobile app (Flutter + Hive) → 3× faster load time; 50% onboarding drop reduction
-* Engineered a GPT-3 counselor bot → cut support load/costs **50%**
+## 🌱 Currently learning
 
----
+**Rust** — ownership, memory safety and concurrent systems programming.  
+**AI** — model internals, efficient inference and scalable AI infrastructure.  
+**Distributed systems** — storage engines, consistency protocols, fault tolerance and performance at scale.
 
-# 🧪 Featured Projects
+<p align="center"><img src="assets/footer.svg" width="100%" alt="" /></p>
 
-### 🌐 **Graph-Based Social Platform**
-
-*Spring Boot, Neo4j, Kafka, Elasticsearch, AWS*
-
-* 3k read RPS / 1.2k write RPS | p95 <220 ms | p99 <350 ms (10k VUs)
-* Added tracing, metrics, request IDs, canary deploys, automated rollbacks (<2 min)
-
-### 🗄️ **DynamoLite — Fault-Tolerant Key-Value Store**
-
-*Java, gRPC, Distributed Systems*
-
-* Adaptive quorum selection → GET p99 **−30%** under stragglers
-* Repair-aware anti-entropy → **50% fewer bytes**, **50% faster convergence**
-* Chaos-tested with Toxiproxy & netem
-
-### 🔎 **PaperTrail AI — Citation Strength Ranking System**
-
-*FastAPI, React, Redis, Claude 4.5*
-
-* Streaming backend → time-to-first-claim **1.2s → 300ms**
-* Retrieval + LLM reranking → precision **0.70 → 0.85**
-* Privacy-by-design (no DB, structured logs, replay-safe streams)
-
----
-
-# 🛠️ Tech Stack
-
-* **Languages:** Python, Java, C/C++, TypeScript, JavaScript
-* **Backend / Systems:** FastAPI, Spring Boot, gRPC, Node.js, Express
-* **Databases:** PostgreSQL, MongoDB, Redis, ElasticSearch, Kafka, Neo4j
-* **DevOps:** Docker, Kubernetes, GitHub Actions (CI/CD), Prometheus, Grafana
-* **Cloud:** AWS, GCP, Azure
-* **AI / LLM:** LangChain, Llama, Pinecone
-* **Other:** Linux, Bash, Airflow
-
----
-
-# 🏆 Other Highlights
-
-* 🧩 **700+ LeetCode problems solved (Top 5%)**
-* 🧑‍🏫 TA for Software Engineering - mentored **80+ students** as a Graduate TA (Software Design Patterns, Git, CI/CD).
-* 🏆 Awarded full scholarship + stipend @ UGA for excellent academic performance
-* 📚 Research in time-series forecasting (Transformers, VAR, CNN)
-* 🎇 Open-Source contribution in:
-  - [ScalaTion & ScalaTionPy](https://github.com/scalation) - A data science library written in Scala and Python
-  - [Dynamic-Sarimax](https://pypi.org/project/dynamic-sarimax/) - Developer & Maintainer for a time-series package
-* 📈 Developed a Proprietary Trading Algorithm yielding up to 50% returns in a quarter. 
-* 🔭 Currently exploring LLMs and systems engineering
+<p align="center">Always up for a conversation about systems architecture, AI, or an interesting engineering problem.<br/><a href="https://linkedin.com/in/nbroy">Let's connect.</a></p>

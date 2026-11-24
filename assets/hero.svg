@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="310" viewBox="0 0 1040 310" role="img" aria-labelledby="title desc">
+<title id="title">Nirupom Bose Roy — Senior Technology Developer</title><desc id="desc">An animated distributed network on a midnight-blue grid. Distributed systems, backend engineering and applied AI.</desc>
+<defs>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#273f5a"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#9ed8ed"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#7cafe8" stop-opacity=".22"/><stop offset="1" stop-color="#7cafe8" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#8db9ff" stroke-opacity=".035" fill="none"/></pattern>
+ <clipPath id="clip"><rect x="1" y="1" width="1038" height="308" rx="24"/></clipPath>
+</defs>
+<style>
+ .pulse{animation:pulse 5s ease-in-out infinite;transform-box:fill-box;transform-origin:center}.p2{animation-delay:-1s}.p3{animation-delay:-2s}.flow{stroke-dasharray:5 28;animation:flow 5s linear infinite}.slow{animation-duration:7s}.blink{animation:blink 2s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.35;transform:scale(1)}50%{opacity:.55;transform:scale(1.18)}}@keyframes flow{to{stroke-dashoffset:-66}}@keyframes blink{50%{opacity:.45}}@media(prefers-reduced-motion:reduce){.pulse,.flow,.blink{animation:none}}
+</style>
+<g clip-path="url(#clip)">
+<rect width="1040" height="310" fill="url(#bg)"/><rect width="1040" height="310" fill="url(#grid)"/><ellipse cx="850" cy="145" rx="270" ry="230" fill="url(#glow)"/>
+<rect x="630" y="49" width="378" height="207" rx="24" fill="#c3e2ff" fill-opacity=".045" stroke="#c3e2ff" stroke-opacity=".14"/>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#8ca8c9"><text x="36" y="40">SOFTWARE ENGINEERING</text><text x="1004" y="40" text-anchor="end">ATHENS, GA</text></g>
+<circle cx="39" cy="74" r="4" fill="#9ed8ed" /><text x="52" y="79" font-family="Arial,sans-serif" font-size="15" fill="#b6d8ee">Senior Technology Developer @ UGA</text>
+<g font-family="Arial, Helvetica, sans-serif"><text x="34" y="143" font-size="50" font-weight="700" letter-spacing="-1.5" fill="#f1f5ff">Nirupom Bose Roy</text><text x="37" y="180" font-size="21" font-weight="600" fill="#c6d9f0">Distributed Systems · Backend · AI</text><text x="37" y="212" font-size="16" fill="#a6b6cb">Building dependable software at scale.</text></g>
+<g stroke="#42658b" stroke-width="1.5" fill="none"><path d="M688 91L790 150 895 83 977 148 903 221 790 150 690 228Z"/><path d="M688 91L690 228M895 83L903 221M790 150L977 148"/></g>
+<g fill="none" stroke="#b5dafa" stroke-width="1.6" stroke-linecap="round" opacity=".7"><path class="flow" d="M688 91L790 150 895 83 977 148"/><path class="flow slow" d="M690 228L790 150 903 221 977 148"/><path class="flow" d="M790 150L977 148"/></g>
+<g fill="none" stroke="#60a5fa" stroke-width="1.5"><circle class="pulse" cx="790" cy="150" r="24"/><circle class="pulse p2" cx="895" cy="83" r="15"/><circle class="pulse p3" cx="903" cy="221" r="15"/></g>
+<g fill="#0e2038" stroke="#b2d1ef" stroke-width="2"><rect x="676" y="79" width="24" height="24" rx="6"/><rect x="676" y="216" width="24" height="24" rx="6"/><circle cx="895" cy="83" r="9"/><circle cx="903" cy="221" r="9"/><circle cx="977" cy="148" r="11"/><rect x="774" y="134" width="32" height="32" rx="8"/></g><g fill="#9ed8ed"><circle cx="790" cy="150" r="5"/><circle cx="688" cy="91" r="3"/><circle cx="690" cy="228" r="3"/><circle cx="895" cy="83" r="3"/><circle cx="903" cy="221" r="3"/><circle cx="977" cy="148" r="3"/></g>
+<g font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#9cb9d8"><text x="655" y="69">CLIENT</text><text x="655" y="253">CLIENT</text><text x="809" y="178">ROUTER</text><text x="910" y="66">R1</text><text x="917" y="240">R2</text><text x="967" y="128">R3</text></g>
+<path d="M36 264H1004" stroke="#6d93b5" stroke-opacity=".35"/><g font-family="ui-monospace,Consolas,monospace" font-size="12" fill="#a6b6cb"><text x="36" y="287">UNIVERSITY OF GEORGIA</text><text x="1004" y="287" text-anchor="end" fill="#b5dafa">SYSTEMS / PERFORMANCE / RELIABILITY</text></g>
+</g><rect x="1" y="1" width="1038" height="308" rx="24" fill="none" stroke="#b6d3ef" stroke-opacity=".25"/>
+</svg>
