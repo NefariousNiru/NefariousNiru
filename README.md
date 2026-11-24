@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/hero.svg" width="100%" alt="Nirupom Bose Roy — Senior Technology Developer at UGA. Distributed systems, backend engineering and AI." /></p>
+<p align="center"><img src="assets/hero.svg" width="100%" alt="Nirupom Bose Roy — Senior Software Engineer at UGA. Distributed systems, backend engineering and AI." /></p>
 
 <p align="center"><a href="https://linkedin.com/in/nbroy">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/NefariousNiru?tab=repositories">Repositories</a> &nbsp;·&nbsp; <a href="https://leetcode.com/u/Nefarious_Nzx/">LeetCode</a></p>
 
 ## 👋 A little about me
 
-I'm a software engineer with five years of experience building distributed systems, high-scale backend platforms and AI-powered software. I'm drawn to the problems beneath the application layer: how systems coordinate, handle failure, move data efficiently and stay predictable under load.
+I'm a senior software engineer with five years of experience building distributed systems, high-scale backend platforms and AI-powered software. I'm drawn to the problems beneath the application layer: how systems coordinate, handle failure, move data efficiently and stay predictable under load.
 
 I enjoy exploring systems from first principles, whether that means building a distributed storage engine, optimizing graph workloads in C++, or designing reliable infrastructure around AI models.
 
@@ -12,7 +12,7 @@ I enjoy exploring systems from first principles, whether that means building a d
 
 ## Currently building @ UGA
 
-**Senior Technology Developer** · College of Pharmacy, University of Georgia · Nov 2026 – Present
+**Senior Software Engineer** · College of Pharmacy, University of Georgia · Nov 2026 – Present
 
 I lead AI-powered educational technology development across 16 project initiatives, working with faculty and domain experts to turn ideas into dependable software. My work spans architecture, hands-on engineering, platform modernization, and improving how we develop, test and deliver software.
 
@@ -26,51 +26,60 @@ Previously, I helped build an AI grading platform for **1K+ users** at UGA, redu
 
 A collection of systems I've built to explore interesting engineering problems.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/NefariousNiru/keyflow">Keyflow</a> ↗</h3>
-<sub>ANDROID · .NET · SECURE NETWORKING</sub>
-<p>Secure Android-to-Windows remote keyboard exploring local-first communication, device identity, mutual TLS and low-latency input.</p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/NefariousNiru/gpupath">GPUPath</a> ↗</h3>
-<sub>C++ · CUDA · PYBIND11</sub>
-<p>Native graph traversal and batched shortest-path queries. Achieved <b>65× speedup</b> over pure-Python NetworkX on graphs with 1M+ edges. CUDA many-to-many kernels are in development, targeting an additional 10× throughput over the CPU baseline.</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/NefariousNiru/social-media">Graph-based Social Platform</a> ↗</h3>
-<sub>SPRING BOOT · NEO4J · KAFKA</sub>
-<p>Event-driven social backend built around graph relationships, asynchronous processing and scalability.</p>
-<p><b>Benchmark:</b> 3K read RPS · 1.2K write RPS · p95 &lt;220 ms.</p>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/NefariousNiru/dynamo-lite">DynamoLite</a> ↗</h3>
-<sub>JAVA · gRPC · DISTRIBUTED STORAGE</sub>
-<p>Dynamo-inspired fault-tolerant key-value store with consistent hashing, vector clocks and Merkle-tree anti-entropy repair.</p>
-<p><b>Result:</b> 40% improvement in replica convergence.</p>
-</td>
-</tr>
-<tr><td colspan="2" valign="top">
-<h3><a href="https://github.com/NefariousNiru/papertrail-ai-backend">PaperTrail AI</a> ↗</h3>
-<sub>FASTAPI · REDIS · RETRIEVAL · LLMs</sub>
-<p>AI-assisted research citation evaluation combining semantic retrieval, LLM ranking and real-time streaming.</p>
-</td></tr>
-</table>
+### [Keyflow](https://github.com/NefariousNiru/keyflow) ↗
+
+A secure, local-first Android-to-Windows remote keyboard, exploring device identity, mutual TLS and low-latency input.
+
+<sub>Android · .NET · Secure networking</sub>
+
+### [GPUPath](https://github.com/NefariousNiru/gpupath) ↗
+
+Native graph traversal and batched shortest-path queries for large graphs. Developing CUDA many-to-many shortest-path kernels.
+
+**65× speedup** over pure-Python NetworkX on graphs with 1M+ edges. Targeting an additional 10× GPU throughput over the CPU baseline.
+
+<sub>C++ · CUDA · pybind11</sub>
+
+### [Graph-based Social Platform](https://github.com/NefariousNiru/social-media) ↗
+
+An event-driven social backend built around graph relationships, asynchronous processing and scalability.
+
+**3K read RPS · 1.2K write RPS** · p95 &lt;220 ms.
+
+<sub>Spring Boot · Neo4j · Kafka</sub>
+
+### [DynamoLite](https://github.com/NefariousNiru/dynamo-lite) ↗
+
+A Dynamo-inspired fault-tolerant key-value store with consistent hashing, vector clocks and Merkle-tree anti-entropy repair.
+
+**40% improvement** in replica convergence.
+
+<sub>Java · gRPC · Distributed storage</sub>
+
+### [PaperTrail AI](https://github.com/NefariousNiru/papertrail-ai-backend) ↗
+
+AI-assisted research citation evaluation combining semantic retrieval, LLM ranking and real-time streaming.
+
+<sub>FastAPI · Redis · Retrieval · LLMs</sub>
 
 ## AI / ML explorations
 
 Beyond production AI, I enjoy experimenting with model architectures, compression and statistical learning.
 
-| Project | Focus |
-| :-- | :-- |
-| [VGG Pruning](https://github.com/NefariousNiru/pruning-vgg) | Neural network pruning and compression |
-| [Custom CNN / ResNet-20](https://github.com/NefariousNiru/custom-CNN-cifar-10-resnet-20) | CIFAR-10 image classification |
-| [Neural Networks Comparative Analysis](https://github.com/NefariousNiru/Neural_Nets_Comparative_Analysis) | Comparative neural network experiments |
-| [Dynamic-SARIMAX](https://github.com/NefariousNiru/dynamic-sarimax) | Time-series forecasting; package developer and maintainer |
-| [ScalaTion & ScalaTionPy](https://github.com/scalation) | Open-source scientific computing and data science |
+**[VGG Pruning](https://github.com/NefariousNiru/pruning-vgg)**  
+Neural network pruning and compression.
+
+**[Custom CNN / ResNet-20](https://github.com/NefariousNiru/custom-CNN-cifar-10-resnet-20)**  
+CIFAR-10 image classification.
+
+**[Neural Networks Comparative Analysis](https://github.com/NefariousNiru/Neural_Nets_Comparative_Analysis)**  
+Comparative neural network experiments.
+
+**[Dynamic-SARIMAX](https://github.com/NefariousNiru/dynamic-sarimax)**  
+Time-series forecasting; package developer and maintainer.
+
+**[ScalaTion & ScalaTionPy](https://github.com/scalation)**  
+Open-source scientific computing and data science.
 
 ## Engineering toolkit
 

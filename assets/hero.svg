@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1040" height="310" viewBox="0 0 1040 310" role="img" aria-labelledby="title desc">
-<title id="title">Nirupom Bose Roy — Senior Technology Developer</title><desc id="desc">An animated distributed network on a midnight-blue grid. Distributed systems, backend engineering and applied AI.</desc>
+<title id="title">Nirupom Bose Roy — Senior Software Engineer</title><desc id="desc">An animated distributed network on a midnight-blue grid. Distributed systems, backend engineering and applied AI.</desc>
 <defs>
  <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#273f5a"/></linearGradient>
  <linearGradient id="accent"><stop stop-color="#60a5fa"/><stop offset="1" stop-color="#9ed8ed"/></linearGradient>
@@ -14,7 +14,7 @@
 <rect width="1040" height="310" fill="url(#bg)"/><rect width="1040" height="310" fill="url(#grid)"/><ellipse cx="850" cy="145" rx="270" ry="230" fill="url(#glow)"/>
 <rect x="630" y="49" width="378" height="207" rx="24" fill="#c3e2ff" fill-opacity=".045" stroke="#c3e2ff" stroke-opacity=".14"/>
 <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="1.5" fill="#8ca8c9"><text x="36" y="40">SOFTWARE ENGINEERING</text><text x="1004" y="40" text-anchor="end">ATHENS, GA</text></g>
-<circle cx="39" cy="74" r="4" fill="#9ed8ed" /><text x="52" y="79" font-family="Arial,sans-serif" font-size="15" fill="#b6d8ee">Senior Technology Developer @ UGA</text>
+<circle cx="39" cy="74" r="4" fill="#9ed8ed" /><text x="52" y="79" font-family="Arial,sans-serif" font-size="15" fill="#b6d8ee">Senior Software Engineer @ UGA</text>
 <g font-family="Arial, Helvetica, sans-serif"><text x="34" y="143" font-size="50" font-weight="700" letter-spacing="-1.5" fill="#f1f5ff">Nirupom Bose Roy</text><text x="37" y="180" font-size="21" font-weight="600" fill="#c6d9f0">Distributed Systems · Backend · AI</text><text x="37" y="212" font-size="16" fill="#a6b6cb">Building dependable software at scale.</text></g>
 <g stroke="#42658b" stroke-width="1.5" fill="none"><path d="M688 91L790 150 895 83 977 148 903 221 790 150 690 228Z"/><path d="M688 91L690 228M895 83L903 221M790 150L977 148"/></g>
 <g fill="none" stroke="#b5dafa" stroke-width="1.6" stroke-linecap="round" opacity=".7"><path class="flow" d="M688 91L790 150 895 83 977 148"/><path class="flow slow" d="M690 228L790 150 903 221 977 148"/><path class="flow" d="M790 150L977 148"/></g>
